@@ -1,5 +1,5 @@
 # cli-games
-A bunch of simple CLI games written in Python
+A bunch of simple CLI games written in Python. All require Python 3 and nothing else.
 
 ####FlapPy (Windows only)
 Flappy the Python has been trapped in an underground cave - help him fly to freedom. A Flappy Bird clone.
