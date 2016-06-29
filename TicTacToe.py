@@ -182,6 +182,7 @@ def aimv(l,x):
        l[7] == l[8] != space or \
        l[3] == l[6] != space or (
        l[5] == 'X' and x == 1 and seedo == 9 ) ):
+        move = 'c3'
 
     while move == empty:
         rndm = random.choice(['a','b','c']) + random.choice(['1','2','3'])
