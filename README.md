@@ -1,4 +1,5 @@
-# cli-games
+# cli-games [![ghit.me](https://ghit.me/badge.svg?repo=buluto/cli-games)](https://ghit.me/repo/buluto/cli-games)
+
 A bunch of simple CLI games written in Python. All require Python 3 and nothing else.
 
 ####FlapPy (Windows only)
