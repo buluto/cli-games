@@ -13,6 +13,6 @@ Fly through the meteor shower.
 How to play: Use A and D keys to strafe left and right. Avoid hitting meteors (@) while collecting shield power-ups (+) for when you can't.
 
 ####TicTacToe
-A game of Tic-Tac-Toe. 1 or 2 player (Hotseat). Pretty challenging AI.
+A game of Tic-Tac-Toe. 1 or 2 player (Hotseat).
 
 How to play: Enter coordinates to place your marker.
